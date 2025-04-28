@@ -1,6 +1,6 @@
 # Todo Application
 
-Create a simple Todo application that stores tasks in in-memory storage.
+Create a simple Todo application that stores tasks in in-memory storage (In array).
 
 ### Setup Instructions
 
@@ -8,7 +8,7 @@ Create a simple Todo application that stores tasks in in-memory storage.
 
 1. Navigate to the backend folder:
    ```bash
-   cd week-6/6.1-todo/backend
+   cd /backend
    ```
 
 2. Install the required dependencies:
@@ -20,7 +20,7 @@ Create a simple Todo application that stores tasks in in-memory storage.
 
 1. Navigate to the frontend folder:
    ```bash
-   cd week-6/6.1-todo/frontend
+   cd /frontend
    ```
 
 2. Install the required dependencies:
