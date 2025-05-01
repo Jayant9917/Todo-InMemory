@@ -29,11 +29,3 @@ Create a simple Todo application that stores tasks in in-memory storage (In arra
    ```
 
 
-
-### Reference UI
-
-Here’s UI design:
-
-![Todo UI](https://utfs.io/f/A8JZzw0Laf9jp4VFakqoEuvQ9dYF0XtUT6VqmJnPbMeNLCig)
-
-> **Note**: Please don’t copy directly. Create a unique and user-friendly design that fits the application’s purpose.
